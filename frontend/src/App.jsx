@@ -1444,7 +1444,7 @@ def orangesRotting(grid):
                 75 DSA Questions from LeetCode
               </h1>
               <p className={`mt-1 ${isDarkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-                BY: Syntax Error | Python Solutions
+                BY: Narayanam Mahanandhan | Python Solutions
               </p>
             </div>
             <div className="flex items-center space-x-4">
